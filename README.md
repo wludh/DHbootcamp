@@ -31,15 +31,16 @@ options. You'll learn why plain text matters and why DH-ers love GitHub. We’ll
 * In preparation, please do the following:
  1. Download [Sublime Text](https://www.sublimetext.com/). It will sometimes ask you for a donation but you don't have to pay to use this software.
  2. Create an account on [Github.com](http://www.github.com/). Send me your username so I can add you to this repository. 
+
 * Agenda:
- * Icebreaker
- * HTML + CSS tutorial 
- * GitHub tutorial and publishing
- * Accessibility chat 
+  * Icebreaker
+  * HTML + CSS tutorial 
+  * GitHub tutorial and publishing
+  * Accessibility chat 
 * Resources:
- * [HTML & CSS Is Hard](https://www.internetingishard.com/html-and-css/) tutorials
- * [W3Schools](http://w3schools.com/)
- * [GitHub Pages](https://pages.github.com/)
+  * [HTML & CSS Is Hard](https://www.internetingishard.com/html-and-css/) tutorials
+  * [W3Schools](http://w3schools.com/)
+  * [GitHub Pages](https://pages.github.com/)
 
 ### October 20, 2021 - What Computers Want Part 2
 * In the second part of our tech-y session, we'll dive into data. You'll learn what
