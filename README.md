@@ -27,11 +27,22 @@ Digital Humanities.
  
 ### October 6, 2021 - What Computers Want Part 1
 * In this tech-y session, we'll learn the basics of building a website, including on campus
-options. You'll learn why plain text matters and why DH-ers love GitHub.
-We’ll also talk about accessibility requirements for publishing on the Web.
+options. You'll learn why plain text matters and why DH-ers love GitHub. We’ll also talk about accessibility requirements for publishing on the Web.
+* In preparation, please do the following:
+ 1. Download [Sublime Text](https://www.sublimetext.com/). It will sometimes ask you for a donation but you don't have to pay to use this software.
+ 2. Create an account on [Github.com](http://www.github.com/). Send me your username so I can add you to this repository. 
+* Agenda:
+ * Icebreaker
+ * HTML + CSS tutorial 
+ * GitHub tutorial and publishing
+ * Accessibility chat 
+* Resources:
+ * [HTML & CSS Is Hard](https://www.internetingishard.com/html-and-css/) tutorials
+ * [W3Schools](http://w3schools.com/)
+ * [GitHub Pages](https://pages.github.com/)
 
 ### October 20, 2021 - What Computers Want Part 2
-o In the second part of our tech-y session, we'll dive into data. You'll learn what
+* In the second part of our tech-y session, we'll dive into data. You'll learn what
 "data modeling" means in the humanities and how to construct your own data
 set. We’ll discuss the ways to address bias in data.
 
