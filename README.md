@@ -33,14 +33,19 @@ options. You'll learn why plain text matters and why DH-ers love GitHub. We’ll
  2. Create an account on [Github.com](http://www.github.com/). Send me your username so I can add you to this repository. 
 
 * Agenda:
-  * Icebreaker
-  * HTML + CSS tutorial 
+  * Icebreaker: what's your earliest memory of the internet?
+  * HTML + CSS tutorial
   * GitHub tutorial and publishing
-  * Accessibility chat 
+  * Other website options
+  * Campus options
+  * Accessibility 
 * Resources:
   * [HTML & CSS Is Hard](https://www.internetingishard.com/html-and-css/) tutorials
   * [W3Schools](http://w3schools.com/)
   * [GitHub Pages](https://pages.github.com/)
+  * [Reclaim Hosting](http://www.reclaimhosting.com/)
+  * [ITS & web accessibility](https://my.wlu.edu/its/services/academic-technologies/academic-technologies-software/wordpress-and-web-accessibility)
+  * [Running a Collaborative Research Website - Programming Historian](https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github)
 
 ### October 20, 2021 - What Computers Want Part 2
 * In the second part of our tech-y session, we'll dive into data. You'll learn what
