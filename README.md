@@ -48,12 +48,25 @@ options. You'll learn why plain text matters and why DH-ers love GitHub. We’ll
   * [Running a Collaborative Research Website - Programming Historian](https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github)
 
 ### October 20, 2021 - What Computers Want Part 2
+
 * In the second part of our tech-y session, we'll dive into data. You'll learn what
 "data modeling" means in the humanities and how to construct your own data
 set. We’ll discuss the ways to address bias in data.
 
+* Agenda
+  * [Slides](https://docs.google.com/presentation/d/1PX-WVo1cuvDrSp5algovTY6NXMQwQ5cMLqGnADCV2ks/edit?usp=sharing)
+ 
+* Resources
+  * [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
+  * [Designing Databases for Historical Research](https://port.sas.ac.uk/course/view.php?id=92&section=4)
+  * [DH Curation Guide](https://archive.mith.umd.edu/dhcuration-guide/guide.dhcuration.org/index.html)
+  * [The Programming Historian](https://programminghistorian.org/en/lessons/)
+  * [Data Feminism](https://data-feminism.mitpress.mit.edu/)
+  * [Design for Diversity - Metadata and Nomenclature](https://des4div.library.northeastern.edu/tag/metadata-nomenclature/)
+
+
 ### October 27, 2021 - Doing Stuff with Data
-o In this session, you'll try your hand at doing something with your data. In addition
+* In this session, you'll try your hand at doing something with your data. In addition
 to analysis methods like text analysis and network analysis, we'll explore tools for
 visualizing data in graph and chart form.
 
