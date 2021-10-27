@@ -77,6 +77,7 @@ visualizing data in graph and chart form.
    * [Voyant](http://www.voyant-tools.org/)
    * [Lexos](http://lexos.wheatoncollege.edu/) 
    * [Google Sheets](https://docs.google.com/spreadsheets/d/1Eb82voDYOazGEJTmKX2DyDwpIAHCaE23qKOKztyYb5o/edit?usp=sharing)
+   * [Raw Graphs](https://rawgraphs.io/)
    * [Natural Language Processing for Humanists](https://github.com/walshbr/humanists-nlp-cookbook)
    * Data sources could be [Project Gutenberg](https://www.gutenberg.org/) or [W&L Data](http://digitalhumanities.wlu.edu/datasets/) or the [Coeducation Report](https://docs.google.com/spreadsheets/d/1Eb82voDYOazGEJTmKX2DyDwpIAHCaE23qKOKztyYb5o/edit?usp=sharing) (see [original document](https://dspace.wlu.edu/handle/11021/34413)).
   
