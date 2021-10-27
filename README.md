@@ -74,11 +74,11 @@ visualizing data in graph and chart form.
   * Icebreaker
   * Quick case study tour through: [network analysis](https://belfastgroup.digitalscholarship.emory.edu/), [mapping](http://maps.mappingthescottishreformation.org/), [digital editions](http://shelleygodwinarchive.org), [text analysis](http://dh.library.yale.edu/projects/vogue/), and [data visualization](https://www.publicbooks.org/who-cares-about-literary-prizes/).
   * Sandbox time: 
-  * [Voyant](http://www.voyant-tools.org/)
-  * [Lexos](http://lexos.wheatoncollege.edu/) 
-  * [Google Sheets](https://docs.google.com/spreadsheets/d/1Eb82voDYOazGEJTmKX2DyDwpIAHCaE23qKOKztyYb5o/edit?usp=sharing)
-  * [Natural Language Processing for Humanists](https://github.com/walshbr/humanists-nlp-cookbook)
-  * Data sources could be [Project Gutenberg](https://www.gutenberg.org/) or [W&L Data](http://digitalhumanities.wlu.edu/datasets/)
+   * [Voyant](http://www.voyant-tools.org/)
+   * [Lexos](http://lexos.wheatoncollege.edu/) 
+   * [Google Sheets](https://docs.google.com/spreadsheets/d/1Eb82voDYOazGEJTmKX2DyDwpIAHCaE23qKOKztyYb5o/edit?usp=sharing)
+   * [Natural Language Processing for Humanists](https://github.com/walshbr/humanists-nlp-cookbook)
+   * Data sources could be [Project Gutenberg](https://www.gutenberg.org/) or [W&L Data](http://digitalhumanities.wlu.edu/datasets/)
   
   
 * Resources
