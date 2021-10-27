@@ -72,19 +72,21 @@ visualizing data in graph and chart form.
 
 * Agenda:
   * Icebreaker
-  * Quick case study tour through: [network analysis](https://belfastgroup.digitalscholarship.emory.edu/), [mapping](http://maps.mappingthescottishreformation.org/), [igital editions](http://shelleygodwinarchive.org), [text analysis](http://dh.library.yale.edu/projects/vogue/), and data visualization.
+  * Quick case study tour through: [network analysis](https://belfastgroup.digitalscholarship.emory.edu/), [mapping](http://maps.mappingthescottishreformation.org/), [igital editions](http://shelleygodwinarchive.org), [text analysis](http://dh.library.yale.edu/projects/vogue/), and [data visualization](https://www.publicbooks.org/who-cares-about-literary-prizes/).
   * Sandbox time: 
   * [Voyant](http://www.voyant-tools.org/)
   * [Lexos](http://lexos.wheatoncollege.edu/) 
   * [Google Sheets](https://docs.google.com/spreadsheets/d/1Eb82voDYOazGEJTmKX2DyDwpIAHCaE23qKOKztyYb5o/edit?usp=sharing)
   * [Natural Language Processing for Humanists](https://github.com/walshbr/humanists-nlp-cookbook)
+  * Data sources could be [Project Gutenberg](https://www.gutenberg.org/) or [W&L Data](http://digitalhumanities.wlu.edu/datasets/)
   
   
 * Resources
   * [Accessible Design for Data Visualization](https://www.youtube.com/watch?v=PfrtZeYmKkk)
   * [accessible data viz is better data viz](https://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz)
   * [Reviews in DH](http://reviewsindh.pubpub.org/) 
-  *  
+  * [Argument Clinic](http://scottbot.net/argument-clinic/)
+  * [Cultural Analytics](https://culturalanalytics.org/)
 
 ### November 10, 2021 - DH in the classroom
 o This session will focus on ways to integrate DH into the classroom. We'll draw on
