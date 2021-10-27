@@ -72,7 +72,7 @@ visualizing data in graph and chart form.
 
 * Agenda:
   * Icebreaker
-  * Quick case study tour through: [network analysis](https://belfastgroup.digitalscholarship.emory.edu/), [mapping](http://maps.mappingthescottishreformation.org/), [igital editions](http://shelleygodwinarchive.org), [text analysis](http://dh.library.yale.edu/projects/vogue/), and [data visualization](https://www.publicbooks.org/who-cares-about-literary-prizes/).
+  * Quick case study tour through: [network analysis](https://belfastgroup.digitalscholarship.emory.edu/), [mapping](http://maps.mappingthescottishreformation.org/), [digital editions](http://shelleygodwinarchive.org), [text analysis](http://dh.library.yale.edu/projects/vogue/), and [data visualization](https://www.publicbooks.org/who-cares-about-literary-prizes/).
   * Sandbox time: 
   * [Voyant](http://www.voyant-tools.org/)
   * [Lexos](http://lexos.wheatoncollege.edu/) 
