@@ -120,6 +120,7 @@ you at W&L.
   * https://canonblasts.academic.wlu.edu/
   * https://hist229.academic.wlu.edu/
   * https://wluparis.omeka.wlu.edu/
+  * https://storymaps.arcgis.com/stories/39e0ed00638046dd97466fa257e373ff or https://storymaps.arcgis.com/stories/d42008068c4a4c21b89f8c9a08f47d52
 
 ### November 17 - What next?
 In our final meeting, we'll discuss how to take your project to the next level. We'll
