@@ -90,10 +90,36 @@ visualizing data in graph and chart form.
   * [Cultural Analytics](https://culturalanalytics.org/)
 
 ### November 10, 2021 - DH in the classroom
-o This session will focus on ways to integrate DH into the classroom. We'll draw on
+
+This session will focus on ways to integrate DH into the classroom. We'll draw on
 the lessons learned from both faculty and Academic Technologies staff. You'll
 come away with a solid understanding of the resources and support available to
 you at W&L.
+
+* To start, think of an assignment or project or class that you think might benefit from some DH pedagogy. We'll workshop at the end. 
+* Why use DH in the classroom?
+  * Project-based learning
+  * Emphasis on process and methods, not just content
+  * Transferrable skills
+  * Public scholarship
+  * Audience
+  * Intellectual property
+* Challenges 
+  * Lots of moving parts! 
+  * Collaboration
+  * Grading
+  * Intellectural property
+* Best practices
+  * Structure and scaffolding
+  * Collaboration
+* Options
+  * Tool-based (Voyant, ArcGIS)
+  * Data-driven 
+  * Digital exhibits & archives
+* Case studies:
+  * https://canonblasts.academic.wlu.edu/
+  * https://hist229.academic.wlu.edu/
+  * https://wluparis.omeka.wlu.edu/
 
 ### November 17 - What next?
 In our final meeting, we'll discuss how to take your project to the next level. We'll
