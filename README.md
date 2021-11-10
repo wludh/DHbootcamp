@@ -112,8 +112,9 @@ you at W&L.
 * Best practices
   * Structure and scaffolding
   * Collaboration
+  * Well-timed training and asynchronous training materials
 * Options
-  * Tool-based (Voyant, ArcGIS)
+  * Tool-based (Voyant, ArcGIS) or method based (text, timelines, mapping)
   * Data-driven 
   * Digital exhibits & archives
 * Case studies:
