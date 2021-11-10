@@ -122,10 +122,10 @@ you at W&L.
   * https://wluparis.omeka.wlu.edu/
   * https://storymaps.arcgis.com/stories/39e0ed00638046dd97466fa257e373ff or https://storymaps.arcgis.com/stories/d42008068c4a4c21b89f8c9a08f47d52
 * Resources
-* [Digital Pedagogy in the Humanities: Concepts, Models, and Experiments](https://digitalpedagogy.hcommons.org/)
-* [How Not to Teach Digital Humanities by Ryan Cordell](https://dhdebates.gc.cuny.edu/read/untitled/section/31326090-9c70-4c0a-b2b7-74361582977e#ch36)
-* [Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/)
-* [Hybrid Pedagogy](https://hybridpedagogy.org/)
+  * [Digital Pedagogy in the Humanities: Concepts, Models, and Experiments](https://digitalpedagogy.hcommons.org/)
+  * [How Not to Teach Digital Humanities by Ryan Cordell](https://dhdebates.gc.cuny.edu/read/untitled/section/31326090-9c70-4c0a-b2b7-74361582977e#ch36)
+  * [Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/)
+  * [Hybrid Pedagogy](https://hybridpedagogy.org/)
 
 
 ### November 17 - What next?
