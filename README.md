@@ -108,7 +108,7 @@ you at W&L.
   * Lots of moving parts! 
   * Collaboration
   * Grading
-  * Intellectural property
+  * Intellectual property
 * Best practices
   * Structure and scaffolding
   * Collaboration
