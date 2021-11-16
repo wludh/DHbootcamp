@@ -1,5 +1,5 @@
 # DH Bootcamp
-The DH Bootcamp is designed to introduce faculty and staff members to the community of practice that is Digital Humanities. This six-session series will fieature discussion, technical training, and opportunity to workshop teaching and research ideas.
+The DH Bootcamp is designed to introduce faculty and staff members to the community of practice that is Digital Humanities. This six-session series will feature discussion, technical training, and opportunity to workshop teaching and research ideas.
 
 Outcomes:
 - Participants will learn foundational competencies for digital research methods in the
@@ -130,6 +130,21 @@ you at W&L.
 
 
 ### November 17 - What next?
+
 In our final meeting, we'll discuss how to take your project to the next level. We'll
-hear from Wendy Lovell and Rebecca Garrett about the grants landscape, as
+hear from Wendy Lovell about the grants landscape, as
 well as cover topics like project management and sustainability.
+
+Agenda:
+
+* Icebreaker: favorite Thanksgiving food
+* Wendy Lovell and grants at W&L
+* Grant funding in DH
+  * NEH - [Office of Digital Humanities](https://www.neh.gov/divisions/odh) and [Preservation and Access](https://www.neh.gov/divisions/preservation) (HCRR)
+  * [Andrew W. Mellon Foundation](https://mellon.org/)
+  * [Associated Colleges of the South](https://www.acsouth.edu/)
+  * [ACLS Digital Extension Grants](https://www.acls.org/programs/digitalextension/)
+  * Internal sources: Lenfest grants, Summer Research Scholars, Dean of the College Teacher-Scholar Cohorts, maybe an equipment fund?
+* Project development and sustainability 
+  * [The Socio-Technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
+  * [That article](https://academic.oup.com/dsh/article/36/Supplement_2/ii86/6205948?login=true) and [responses](https://twitter.com/ThatAndromeda/status/1458445616409939971)
