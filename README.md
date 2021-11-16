@@ -145,6 +145,9 @@ Agenda:
   * [Associated Colleges of the South](https://www.acsouth.edu/)
   * [ACLS Digital Extension Grants](https://www.acls.org/programs/digitalextension/)
   * Internal sources: Lenfest grants, Summer Research Scholars, Dean of the College Teacher-Scholar Cohorts, maybe an equipment fund?
+* Training
+  * [Digital Humanities Summer Institute](http://www.dhsi.org/)
+  * [HILT](http://dhtraining.org/hilt/)
 * Project development and sustainability 
   * [The Socio-Technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
   * [That article](https://academic.oup.com/dsh/article/36/Supplement_2/ii86/6205948?login=true) and [responses](https://twitter.com/ThatAndromeda/status/1458445616409939971)
