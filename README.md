@@ -76,6 +76,10 @@ visualizing data in graph and chart form.
   * Sandbox time: 
    * [Voyant](http://www.voyant-tools.org/)
    * [Lexos](http://lexos.wheatoncollege.edu/) 
+   * [AntConc](https://www.laurenceanthony.net/software.html)
+   * [Corpus Analysis with Antconc tutorial](http://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)
+   * [Gephi](https://gephi.org/) for network analysis. Also, [Palladio]() or [Network Navigator](https://networknavigator.jrladd.com/)
+   * [ArcGIS Online](https://www.arcgis.com/index.html) for mapping or [ArcGIS StoryMaps](http://storymaps.arcgis.com/)
    * [Google Sheets](https://docs.google.com/spreadsheets/d/1Eb82voDYOazGEJTmKX2DyDwpIAHCaE23qKOKztyYb5o/edit?usp=sharing)
    * [Raw Graphs](https://rawgraphs.io/)
    * [Natural Language Processing for Humanists](https://github.com/walshbr/humanists-nlp-cookbook)
