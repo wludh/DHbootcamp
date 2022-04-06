@@ -152,6 +152,7 @@ Agenda:
 * Training
   * [Digital Humanities Summer Institute](http://www.dhsi.org/)
   * [HILT](http://dhtraining.org/hilt/)
+  * [ILiADS](http://iliads.org/)
 * Project development and sustainability 
   * [The Socio-Technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
   * [That article](https://academic.oup.com/dsh/article/36/Supplement_2/ii86/6205948?login=true) and [responses](https://twitter.com/ThatAndromeda/status/1458445616409939971)
