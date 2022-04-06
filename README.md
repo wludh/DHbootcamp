@@ -141,7 +141,7 @@ well as cover topics like project management and sustainability.
 
 Agenda:
 
-* Icebreaker: favorite Thanksgiving food
+* Icebreaker: 
 * Wendy Lovell and grants at W&L
 * Grant funding in DH
   * NEH - [Office of Digital Humanities](https://www.neh.gov/divisions/odh) and [Preservation and Access](https://www.neh.gov/divisions/preservation) (HCRR)
@@ -155,4 +155,4 @@ Agenda:
 * Project development and sustainability 
   * [The Socio-Technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
   * [That article](https://academic.oup.com/dsh/article/36/Supplement_2/ii86/6205948?login=true) and [responses](https://twitter.com/ThatAndromeda/status/1458445616409939971)
-* Thank you! I'd appreciate your feedback through this form: [https://forms.gle/5MKdcuKfZiG9S3Nz6](https://forms.gle/5MKdcuKfZiG9S3Nz6)
+* Thank you! I'd appreciate your feedback through this form: [https://forms.gle/W2Tynx6YBDyqLJur7](https://forms.gle/5MKdcuKfZiG9S3Nz6)
