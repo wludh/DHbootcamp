@@ -65,7 +65,7 @@ set. We’ll discuss the ways to address bias in data.
   * [Design for Diversity - Metadata and Nomenclature](https://des4div.library.northeastern.edu/tag/metadata-nomenclature/)
 
 
-### November 10, 2022 - Doing Stuff with Data [rescheduling this session]
+### December 1, 2022 - Doing Stuff with Data
 * In this session, you'll try your hand at doing something with your data. In addition
 to analysis methods like text analysis and network analysis, we'll explore tools for
 visualizing data in graph and chart form.
@@ -93,7 +93,7 @@ visualizing data in graph and chart form.
   * [Argument Clinic](http://scottbot.net/argument-clinic/)
   * [Cultural Analytics](https://culturalanalytics.org/)
 
-### December 1, 2022 - DH in the classroom
+### December 8, 2022 - DH in the classroom
 
 This session will focus on ways to integrate DH into the classroom. We'll draw on
 the lessons learned from both faculty and Academic Technologies staff. You'll
