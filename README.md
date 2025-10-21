@@ -7,9 +7,9 @@ humanities.
 - Participants will be oriented to the people, technologies, and other support available for
 conducting DH projects and teaching at W&L.
 
-## Winter 2023
+## Fall 2025
 
-### January 11, 2023 - What is DH anyway?
+### October 24 - What is DH anyway?
 * In our first session, we'll spend some time unpacking the many definitions of
 Digital Humanities.
 * In preparation, take a look a [A Short Guide to the Digital_Humanities](https://jeffreyschnapp.com/wp-content/uploads/2013/01/D_H_ShortGuide.pdf) and be prepared to talk about the place of DH in your own discipline. 
@@ -25,7 +25,7 @@ Digital Humanities.
   * How does your discipline react or incorporate DH? How does that affect your own approach? 
 
  
-### January 25, 2023 - What Computers Want Part 1
+### November 7 - What Computers Want Part 1
 * In this tech-y session, we'll learn the basics of building a website, including on campus
 options. You'll learn why plain text matters and why DH-ers love GitHub. We’ll also talk about accessibility requirements for publishing on the Web.
 * In preparation, please do the following:
@@ -47,7 +47,7 @@ options. You'll learn why plain text matters and why DH-ers love GitHub. We’ll
   * [ITS & web accessibility](https://my.wlu.edu/its/services/academic-technologies/academic-technologies-software/wordpress-and-web-accessibility)
   * [Running a Collaborative Research Website - Programming Historian](https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github)
 
-### February 8, 2023 - What Computers Want Part 2
+### December 5, 2023 - What Computers Want Part 2
 
 * In the second part of our tech-y session, we'll dive into data. You'll learn what
 "data modeling" means in the humanities and how to construct your own data
@@ -65,7 +65,7 @@ set. We’ll discuss the ways to address bias in data.
   * [Design for Diversity - Metadata and Nomenclature](https://des4div.library.northeastern.edu/tag/metadata-nomenclature/)
 
 
-### March 8, 2023 - Doing Stuff with Data
+### TBD 2026 - Doing Stuff with Data
 * In this session, you'll try your hand at doing something with your data. In addition
 to analysis methods like text analysis and network analysis, we'll explore tools for
 visualizing data in graph and chart form.
@@ -93,7 +93,7 @@ visualizing data in graph and chart form.
   * [Argument Clinic](http://scottbot.net/argument-clinic/)
   * [Cultural Analytics](https://culturalanalytics.org/)
 
-### March 22, 2023 - DH in the classroom
+### TBD 2026 - DH in the classroom
 
 This session will focus on ways to integrate DH into the classroom. We'll draw on
 the lessons learned from both faculty and Academic Technologies staff. You'll
@@ -133,7 +133,7 @@ you at W&L.
   * [Hybrid Pedagogy](https://hybridpedagogy.org/)
 
 
-### April 5, 2023 - What next?
+### TBD 2026 - What next?
 
 In our final meeting, we'll discuss how to take your project to the next level. We'll
 hear from Wendy Lovell about the grants landscape, as
